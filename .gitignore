@@ -1,5 +1,6 @@
 nbproject/
 vendor/*
+composer.phar
 
 runtime/
 web/assets/
@@ -8,3 +9,4 @@ web/assets/
 .access.log
 .error.log
 composer.lock
+yii.bat

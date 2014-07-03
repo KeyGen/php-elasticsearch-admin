@@ -1,4 +1,4 @@
-ElascitSearch admin
+phpESadmin
 ================================
 
 Database management elastichsearch. Manager written in yii 2.
