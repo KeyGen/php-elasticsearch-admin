@@ -1,0 +1,10 @@
+nbproject/
+vendor/*
+
+runtime/
+web/assets/
+
+*~
+.access.log
+.error.log
+composer.lock
